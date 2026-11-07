@@ -10,7 +10,7 @@
 *Auxiliary tools and utilities for the A&S RTX Community Patcher*
 
 [![Main Patcher](https://img.shields.io/badge/Main_Patcher-Actions--and--Stuff--RTX--Patcher-2ea44f?style=flat-square&logo=github)](https://github.com/Felix-Chaos/Actions-and-Stuff-RTX-Patcher)
-[![Discord](https://img.shields.io/discord/1432653252171661364?logo=discord&style=flat-square&label=Discord)](https://discord.gg/YrMMmN2kc7)
+[![Discord](https://img.shields.io/discord/1432653252171661364?logo=discord&style=flat-square&label=Discord)](https://discord.gg/bkUdUU5Vn2)
 
 </td>
 </tr>
